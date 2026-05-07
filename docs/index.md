@@ -1,14 +1,25 @@
-# 欢迎来到 DarkRain 技术博客
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
 
-一个关于软件开发的技术博客，涵盖前端、后端和 DevOps 主题。
+hero:
+  name: "DarkRain's blog"
+  text: "简单的博客"
+  tagline: My great project tagline
+  actions:
+    - theme: brand
+      text: Markdown Examples
+      link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
 
-## 最新文章
+features:
+  - title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+---
 
-- [Vue.js 基础](/articles/vue-basics)
-- [React Hooks](/articles/react-hooks)
-- [Node.js API](/articles/node-api)
-- [数据库设计](/articles/database-design)
-
-## 关于我
-
-我是一名热爱构建可扩展应用并分享知识的软件工程师。
