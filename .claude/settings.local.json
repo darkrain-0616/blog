@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p docs/.vitepress/theme docs/posts)",
+      "Bash(npm run *)"
+    ],
+    "additionalDirectories": [
+      "E:\\work\\code\\blog\\docs\\.vitepress"
+    ]
+  }
+}

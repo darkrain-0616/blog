@@ -7,3 +7,4 @@ docs/.vitepress/cache
 npm-debug.log*
 yarn-error.log*
 .DS_Store
+.claude
