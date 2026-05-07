@@ -12,7 +12,7 @@ const { Layout } = DefaultTheme
           target="_blank"
           rel="noopener noreferrer"
         >
-          浙ICP备2021xxxxxxxx号-1
+          新ICP备2026003366号-1
         </a>
       </div>
     </template>
