@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,ae as r}from"./chunks/framework.Co1PSFSm.js";const h=JSON.parse('{"title":"关于","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),i={name:"about.md"};function l(n,a,s,c,d,_){return t(),o("div",null,[...a[0]||(a[0]=[r("",6)])])}const p=e(i,[["render",l]]);export{h as __pageData,p as default};
