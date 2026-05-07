@@ -17,4 +17,3 @@ title: 关于我
 
 ## 联系方式
 
-- GitHub：[darkrain-e5](https://github.com/darkrain-e5)

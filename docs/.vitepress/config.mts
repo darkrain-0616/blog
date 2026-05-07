@@ -39,18 +39,9 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/darkrain-e5' },
-    ],
-
     footer: {
       message: '基于 VitePress 构建',
       copyright: 'Copyright © 2024-present DarkRain',
-    },
-
-    editLink: {
-      pattern: 'https://github.com/darkrain-e5/blog/edit/main/docs/:path',
-      text: '在 GitHub 上编辑此页',
     },
 
     lastUpdatedText: '最后更新',
