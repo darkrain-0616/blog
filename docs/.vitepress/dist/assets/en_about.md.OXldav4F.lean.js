@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as o,ae as n}from"./chunks/framework.Co1PSFSm.js";const p=JSON.parse('{"title":"About","description":"","frontmatter":{},"headers":[],"relativePath":"en/about.md","filePath":"en/about.md"}'),r={name:"en/about.md"};function i(l,e,c,s,h,u){return t(),o("div",null,[...e[0]||(e[0]=[n("",6)])])}const _=a(r,[["render",i]]);export{p as __pageData,_ as default};

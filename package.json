@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "preview": "vitepress preview docs"
+    "build": "npx vitepress build docs",
+    "preview": "npx vitepress preview docs"
   },
   "keywords": [],
   "author": "",
