@@ -11,7 +11,13 @@ export default {
         href: 'https://beian.miit.gov.cn/',
         target: '_blank',
         rel: 'noopener noreferrer'
-      }, '新ICP备2026003366号-1')
+      }, '新ICP备2026003366号-1'),
+      h('span', ' | '),
+      h('a', {
+        href: 'https://beian.mps.gov.cn/#/query/webSearch?code=65010502001078',
+        target: '_blank',
+        rel: 'noopener noreferrer'
+      }, '新公网安备65010502001078号')
     ])
   }),
   enhanceApp({ app, router, siteData }: EnhanceAppContext) {

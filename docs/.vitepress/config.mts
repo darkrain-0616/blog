@@ -39,10 +39,6 @@ export default defineConfig({
       },
     ],
 
-    footer: {
-      message: '基于 VitePress 构建',
-      copyright: 'Copyright © 2024-present DarkRain',
-    },
 
     lastUpdatedText: '最后更新',
     docFooter: {
